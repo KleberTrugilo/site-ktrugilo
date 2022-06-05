@@ -26,7 +26,7 @@
                             <a class="nav-link active text-info" aria-current="page" href="index.php?pagina=home">Início</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-info" href="index.php?pagina=sobre">Quem sou!</a>
+                            <a class="nav-link text-info" href="index.php?pagina=sobre">Quem sou?</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-info" href="index.php?pagina=galeria">Galeria</a>
@@ -40,8 +40,7 @@
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <li><a class="dropdown-item" href="index.php?pagina=projetos">Projetos</a></li>
-                                <li><a class="dropdown-item" href="index.php?pagina=meus-cursos">Meus cursos</a></li>
-                                <li><a class="dropdown-item" href="index.php?pagina=int-lab">Something else here</a></li>
+                                <li><a class="dropdown-item" href="index.php?pagina=meus-cursos">Meus cursos</a><li>                             
                             </ul>
                         </li>
                     </ul>

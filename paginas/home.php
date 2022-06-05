@@ -7,13 +7,13 @@
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img src="imagens/banner/banner02.jpg" class="d-block w-100 carrossel2" alt="...">
-            <div class="carousel-caption d-md-block carrossel-box-vidro mb-3">
+            <div class="carousel-caption d-md-block carrossel-box efeito-vidro mb-3">
                 <a href="" class="cor-texto-especial carrossel-box-texto">Projetos int.Lab</a>
             </div>
         </div>
         <div class="carousel-item">
             <img src="imagens/banner/banner03.jpg" class="d-block w-100 carrossel3" alt="...">
-            <div class="carousel-caption d-md-block carrossel-box-vidro mb-3">
+            <div class="carousel-caption d-md-block carrossel-box efeito-vidro mb-3">
                 <a href="index.php?pagina=sobre" class="cor-texto-especial carrossel-box-texto">Um pouco da minha história</a>
             </div>
         </div>
