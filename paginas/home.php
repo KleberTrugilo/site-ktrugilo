@@ -6,9 +6,9 @@
     </div>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="imagens/banner/banner02.jpg" class="d-block w-100 carrossel2" alt="...">
+            <img src="imagens/banner/banner02.jpg" class="d-block w-100 carrossel2" alt="Notebook">
             <div class="carousel-caption d-md-block carrossel-box efeito-vidro mb-3">
-                <a href="" class="cor-texto-especial carrossel-box-texto">Projetos int.Lab</a>
+                <a href="https://github.com/KleberTrugilo" class="cor-texto-especial carrossel-box-texto">Projetos int.Lab</a>
             </div>
         </div>
         <div class="carousel-item">

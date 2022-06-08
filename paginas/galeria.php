@@ -33,6 +33,7 @@
                     }
                 ?>
             </div>
+            <?php require "paginas/cards-modal.php" ?>
         </a>
         <div class="row row-cols-1 row-cols-md-3 g-4 d-none" id="cardsTodasAtividadesIntegrado">
             <?php 
@@ -59,9 +60,13 @@
                     ;
                 }
             ?>
+            
         </div>
-        <button id="botaoExpandeListaAtividades" class="botao">Mais fotos</button>
-        <button id="botaoRecuaListaAtividades" class="botao d-none">Menos fotos</button>
+        <div class="botaoComprimento">
+                <button id="botaoExpandeListaAtividades" class="botao">Mais fotos</button>
+                <button id="botaoRecuaListaAtividades" class="botao d-none">Menos fotos</button>
+        </div>
+        
 
     <!-- Imersão na natureza -->
 
@@ -118,8 +123,11 @@
                 }
             ?>
         </div>
-        <button id="botaoExpandeListaViagens" class="botao">Mais fotos</button>
-        <button id="botaoRecuaListaViagens" class="botao d-none">Menos fotos</button>
+        <div class="botaoComprimento">
+            <button id="botaoExpandeListaViagens" class="botao">Mais fotos</button>
+            <button id="botaoRecuaListaViagens" class="botao d-none">Menos fotos</button>
+        </div>
+        
 
     <!-- Fazendo Arte -->
 
@@ -176,9 +184,11 @@
                 }
             ?>
         </div>
-        <button id="botaoExpandeListaArtes" class="botao">Mais fotos</button>
-        <button id="botaoRecuaListaArtes" class="botao d-none">Menos fotos</button>
+        <div class="botaoComprimento">
+            <button id="botaoExpandeListaArtes" class="botao">Mais fotos</button>
+            <button id="botaoRecuaListaArtes" class="botao d-none">Menos fotos</button>
+        </div>
     </div>
-    <?php require "paginas/cards-modal.php" ?>
+    
     <script src="paginas/galeria.js"></script>
 </section>

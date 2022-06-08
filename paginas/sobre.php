@@ -20,7 +20,7 @@
 
             <article class="mb-3 fs-5">Antes disso, minha breve história. Sou farmacêutico-bioquímico, atuando na profissão por mais de 15 anos. Neste período, trabalhei em farmácias comerciais e públicas, laboratório de análises clínicas e fiz mestrado e doutorado em Patologia Experimental. Aprendi muita coisa, entre elas que a harmonia no ambiente de trabalho é fundamental para o bom desempenho profissional.</article>
 
-            <article class="mb-3 fs-5">Mas... eu não estava feliz como farmacêutico. Demorei muito para entender e admitir isso.</article>
+            <article class="mb-3 fs-5">Mas... eu não estava feliz como farmacêutico.</article>
 
             <article class="mb-3 fs-5">Então, sob a influência de pessoas que muito admiro, conheci a programação e fiquei muito interessado. Iniciei uma nova faculdade: Tecnologia em Análise e Desenvolvimento de Sistemas. Comecei a fazer cursos complementares e a estagiar no Programa de Aceleração de Carreiras - Int.Lab (Centro Universitário Integrado - Campo Mourão/PR).</article>
 

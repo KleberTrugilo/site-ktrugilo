@@ -13,7 +13,10 @@
                 <label for="exampleFormControlTextarea1" class="form-label">Comentário</label>
                 <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Deixe seu comentário aqui" rows="3"></textarea>
             </div>
-            <button type="submit" class="botao">Enviar</button>
+            <div class="botaoComprimento">
+                <button type="submit" class="botao">Enviar</button>
+            </div>
+            
         </form>
     </div>
 </section>

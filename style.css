@@ -59,6 +59,7 @@ h3 {
     background-color: rgba(36, 36, 36, 0.034);
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
+    border: none;
 }
 .carrossel-box-texto {
     font-size: 2rem;
@@ -81,10 +82,13 @@ h3 {
 }
 .footer-imagem {
     background: url(imagens/img-footer.jpg);
+    object-fit: cover;
+    height: 12rem;
 }
 .footer-bg {
     background: #11414d;
     opacity: 0.8;
+    height: 12rem;
 }
 .foto-sobre {
     object-fit: cover;
@@ -96,13 +100,25 @@ h3 {
 .botao {
     margin: 1.5rem 0;
     padding: 1rem;
-    width: 19.4rem;
+    width: 100%;
     background: #40bbe0;
     border: none;
+    border-bottom: 2px solid #00a0d1;
     border-radius: 5px;
     color: #363636;
     font-size: 1rem;
     font-weight: bold;
+}
+.botaoComprimento {
+    padding-right: 1rem;
+    width: 33.33333333%;
+}
+.icone {
+    font-size: 1.5rem;
+    width: 3rem;
+    height: 3rem;
+    color: #dff7ff;
+    
 }
 @media screen and (max-width: 480px) {
     h1, h2, h3 {
@@ -113,8 +129,9 @@ h3 {
         max-width: 13rem;
         max-height: 13rem;
     }
-    .botao {
+    .botaoComprimento {
         width: 100%;
+        padding: 0;
     }
     /*.carrossel-box {
         max-width: 100%;
